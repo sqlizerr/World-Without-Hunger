@@ -1,0 +1,116 @@
+.content1 h1 {
+    font-size: 23px;
+}
+.content1 h1 b {
+    font-size: 31px;
+}
+.content1 p {
+    font-size: 19px;
+}
+.facility_heading h2 {
+    font-size: 27px;
+}
+.small_h5 h5 {
+    font-size: 18px;
+}
+.nav-left h1 {
+    font-size: 38px;
+}
+.contentmain-left p {
+    font-size: 17px;
+}
+.contentmain-right img {
+    width: 300px;
+}
+.contentmain1-right img {
+    width: 300px;
+}
+.contentmain1-left p {
+    font-size: 17px;
+}
+.footerxtitle h3 {
+    font-size: 22px;
+}
+.registration_acts p{
+    font-size: 15px;
+}
+.tax{
+    font-size: 15px;
+}
+.infome{
+    padding-left: 10px;
+}
+.facilities {
+    width: 29%;
+    padding-left:15px;
+}
+.facility_button button {
+    padding: 15px 85px;
+}
+.navigation{
+    background-size: cover;
+    height: 442px;
+}
+.navigation_about{
+    background-size: cover;
+    height: 442px;
+}
+.navigation_volunteer{
+    background-size: cover;
+    height: 442px;
+}
+.navigation_donatefood{
+    background-size: cover;
+    height: 442px;
+}
+.navigation_donatemeal{
+    background-size: cover;
+    height: 442px;
+}
+.navigation_requestfood{
+    background-size: cover;
+    height: 442px;
+}
+.navigation_contact{
+    background-size:cover ;
+    height: 442px;
+}
+
+.content2 h3 {
+    font-size: 25px;
+}
+.content2 p {
+    font-size: 19px;
+    margin-top: 7px;
+}
+.content3 h3 {
+    font-size: 25px;
+}
+.content3 p {
+    font-size: 19px;
+    margin-top: 7px;
+}
+.big_h5 {
+    font-size: 20px;
+}
+.form_title h2 b {
+    font-weight: bold;
+    font-size: 26px;
+}
+.tabs ul li {
+    padding: 10px 20px;
+}
+.tabs ul {
+    margin-right: 50px;
+}
+.tabs ul li a{
+    font-size: 17px;
+}
+.facility1_heading h2 {
+    font-size: 22px;
+    margin-left: 340px;
+}
+.big_h1 {
+    top: 200px;
+}
+

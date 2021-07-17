@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Signika+Negative:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Quicksand:wght@300&family=Signika+Negative:wght@300&display=swap');
+:root{
+    --main-bg-color:brown;
+    --font1: 'Signika Negative', sans-serif;
+    --font2:  'Open Sans Condensed', sans-serif;
+    --font3:  'Quicksand', sans-serif;
+}
+.max-width-1{
+    max-width: 80vw;
+
+}
+.max-width-2{
+    max-width:60vw;
+}
+.m-auto{
+    margin:auto;
+}
+.my1{
+    margin: 13px;
+    margin-top: 13px;
+}
+.font1{
+    font-family: var(--font1);
+}
+.font2{
+    font-family: var(--font2);
+}
+.font3{
+    font-family: var(--font3);
+}

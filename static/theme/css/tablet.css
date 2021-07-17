@@ -1,0 +1,204 @@
+.contentmain{
+    flex-direction: column-reverse;
+}
+.contentmain1{
+    flex-direction: column;
+} 
+.facility1_heading h2 {
+    margin-left: 100px;
+}
+.tabs ul {
+    display: flex;
+}
+.tabs ul li {
+    display: block;
+    padding: 10px 10px;
+}
+.tabs ul li a{
+    font-size: 13px;
+}
+.navigation{
+    background-size: cover;
+    height: 260px;
+}
+.navigation_about{
+    background-size: cover;
+    height: 260px;
+}
+.navigation_volunteer{
+    background-size: cover;
+    height: 260px;
+}
+.navigation_donatefood{
+    background-size: cover;
+    height: 260px;
+}
+.navigation_donatemeal{
+    background-size: cover;
+    height: 260px;
+}
+.navigation_requestfood{
+    background-size: cover;
+    height: 260px;
+}
+.navigation_contact{
+    background-size: cover;
+    height: 260px;
+}
+
+.big_h1 {
+    width: 75%;
+    height: 40px;
+    top: 75px;
+    left: 70px;
+}
+.big_h5 {
+    width: 70%;
+    top: 90px;
+    left: 70px;
+}
+.nav-left h1 {
+    font-size: 25px;
+}
+.small_h5 {
+    width: 75%;
+    height: 40px;
+    top: 30px;
+    left: 70px;
+}
+.small_h5 h5 ,.big_h5{
+    font-size: 14px;
+}
+.nav-left {
+    height: 120px;
+    top: 90px;
+}
+.content1 {
+    margin-left: 20px;
+}
+.content1 h1 {
+    font-size: 16px;
+}
+.content1 h1 b {
+    font-size: 26px;
+}
+.content1 p,.content2 p {
+    font-size: 16px;
+}
+.content3 h3 ,.content2 h3 {
+    font-size: 22px;
+}
+.facility_heading {
+    margin-bottom: 0px;
+    margin-top: 40px
+}
+.facility_heading h2 {
+    font-size: 19px;
+    margin-left: 20px;
+}
+.content2 {
+    margin-left: 90px;
+}
+.contentmain-left ,.contentmain1-left{
+    width: 100%;
+}
+.contentmain-left p ,.contentmain1-left p{
+    width: 100%;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.contentmain-right,.contentmain1-right {
+    padding-left: 10px;
+    width: 68%;
+}
+.contentmain-right img ,.contentmain1-right img {
+    width: 100%;
+    height: 270px;
+    border-radius: 5px;
+}
+.facility_text {
+    font-size: 13px;
+}
+.facility_button button {
+    padding: 12px 51px;
+}
+.facility1_heading h2 {
+    margin-left: 20px;
+    font-size: 20px;
+}
+.facility1_heading {
+    margin-bottom: 0px;
+    margin-top: 40px
+}
+.contentmain1-right {
+    padding-left: 10px;
+    width: 68%
+}
+.facility_button{
+    padding-top: 15px;
+}
+.footerx {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5rem;
+}
+.footerx-right {
+    width:80%;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.facilities, .infome {
+    width: 26%;
+}
+.social{
+    width: 29%;
+}
+.footerx-left {
+    width: 80%;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.footerxtitle h3 {
+    font-size: 21px;
+}
+.tax p ,.registration_acts p{
+    font-size: 15px;
+}
+.footerx_link1,.footerx_link2,.footerx_link3,.footerx_link4{
+    font-size: 13px;
+}
+.footerx_h6{
+    font-size: 14px;
+}
+.form_title{
+    margin-left: 90px;
+}
+.form_title h2{
+    font-size: 16px;
+}
+.form_title h2 b{
+    font-size: 19px;
+}
+/*
+.tabs ul li {
+    display: block;
+    padding: 4px 0px
+}
+
+.tabs ul {
+    display: block;
+    position: fixed;
+    top: 80;
+    top: 0;
+    left: 0;
+    margin-left: 0px;
+    background: #e56a6a;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+.tabs ul li a{
+    display: block;
+}*/

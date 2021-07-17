@@ -1,0 +1,145 @@
+.content1 h1 ,.content2 h3 ,.content3 h3{
+    font-size: 20px;
+}
+.content1 h1 b {
+    font-size: 28px;
+}
+.content1 p,.content2 p ,.content3 p {
+    font-size: 17px;
+}
+.facility_heading h2 {
+    font-size: 22px;
+}
+.small_h5 h5 {
+    font-size: 18px;
+}
+.nav-left h1 {
+    font-size: 35px;
+}
+.contentmain-left p {
+    font-size: 15px;
+}
+.contentmain-right img {
+    width: 250px;
+    height: 220px;
+}
+.facility1_heading h2 {
+    font-size: 22px;
+    margin-left: 290px;
+}
+.contentmain1-right img {
+    width: 250px;
+    height: 220px;
+}
+.contentmain1-left p {
+    font-size: 15px;
+}
+.footerxtitle h3 {
+    font-size: 20px;
+}
+.registration_acts p{
+    font-size: 13px;
+}
+.tax{
+    font-size: 13px;
+}
+.infome{
+    padding-left: 10px;
+}
+.facilities {
+    width: 30%;
+    padding-left:15px;
+}
+.facility_button button {
+    padding: 12px 56px
+}
+.facility_text {
+    font-size: 14px;
+}
+.navigation{
+    background-size: cover;
+    height: 390px;
+}
+.tabs ul {
+    margin-right: 50px;
+}
+.tabs ul li {
+    padding: 10px 15px;
+}
+.navigation_about{
+    background-size: cover;
+    height: 390px;
+}
+.navigation_volunteer{
+    background-size: cover;
+    height: 390px;
+}
+.navigation_donatefood{
+    background-size: cover;
+    height: 390px;
+}
+.navigation_donatemeal{
+    background-size: cover;
+    height: 390px;
+}
+.navigation_requestfood{
+    background-size: cover;
+    height: 390px;
+}
+.navigation_contact{
+    background-size: cover;
+    height: 390px;
+}
+
+.content2 h3 {
+    font-size: 22px;
+}
+.content2 p {
+    font-size: 17px;
+    margin-top: 7px;
+}
+.content3 h3 {
+    font-size: 22px;
+}
+.content3 p {
+    font-size: 17px;
+    margin-top: 7px;
+}
+.big_h5 {
+    font-size: 16px;
+    top: 200px;
+    left: 90px;
+}
+.form_title h2 b {
+    font-weight: bold;
+    font-size: 24px;
+}
+.footerx-left {
+    margin-left: 100px;
+}
+.social {
+    width: 34%;
+}
+.footerx_word{
+    font-size: 15px;
+}
+.tabs ul li a {
+    font-size: 15px;
+}
+.small_h5 {
+    top: 130px;
+    left: 90px;
+}
+.big_h1 {
+    top: 190px;
+    left: 90px;
+}
+.nav-left h1 {
+    font-size: 33px;
+}
+.form_title h2 {
+    font-size: 23px;
+}
+.payment p{
+    margin-left: 110px;
+}
